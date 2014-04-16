@@ -9,7 +9,6 @@
       "local_path": "index.html"
     }
   },
-  "default_locale": "en",
   "description": "<%= packageInfo.description %>",
   "icons": {
     "128": "icon_128.png"
