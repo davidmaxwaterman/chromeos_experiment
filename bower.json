@@ -7,6 +7,6 @@
     "components"
   ],
   "dependencies": {
-    "intel-appframework": "*"
+    "jquery": "*"
   }
 }
