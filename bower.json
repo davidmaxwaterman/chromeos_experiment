@@ -7,6 +7,6 @@
     "components"
   ],
   "dependencies": {
-    "intel-appframework": "*"
+    "jquery": "~2.1.1"
   }
 }
